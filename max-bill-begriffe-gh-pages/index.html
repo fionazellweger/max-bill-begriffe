@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Co-Occurrence aller Stationen (Lemma), Kugel</title>
+
+    <script src="libraries/d3.v7.min.js"></script>
+    <script src="network.js"></script>
+    <script src="all3d.js"></script>
+
+    <style>
+      body {
+        margin: 0;
+        background-color: #ffffff;
+        overflow: hidden;
+      }
+
+      #network-svg {
+        display: block;
+        width: 100vw;
+        height: 100vh;
+        cursor: grab;
+      }
+
+      #controls {
+        position: fixed;
+        top: 12px;
+        left: 12px;
+        color: #000000;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+      }
+
+      #controls select,
+      #controls input {
+        background: #ffffff;
+        color: #000000;
+        border: 1px solid #000000;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        padding: 3px 6px;
+      }
+
+      #controls input {
+        width: 4em;
+      }
+
+      #controls label + label {
+        margin-left: 12px;
+      }
+
+      #hint {
+        position: fixed;
+        bottom: 12px;
+        left: 12px;
+        color: #000000;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 11px;
+        opacity: 0.6;
+      }
+
+      text {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 9px;
+        pointer-events: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="controls">
+      <input id="mode" type="hidden" value="b" />
+      <label>
+        min anzahl
+        <input id="min-anzahl" type="number" min="2" step="1" value="5" />
+      </label>
+    </div>
+    <div id="hint">ziehen: drehen · scrollen: zoomen · klick: hervorheben</div>
+    <svg id="network-svg"></svg>
+  </body>
+</html>

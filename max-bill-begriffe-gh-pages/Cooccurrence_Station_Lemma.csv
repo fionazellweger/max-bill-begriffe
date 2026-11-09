@@ -1,0 +1,1269 @@
+Station,Titel,begriff_a,wort_b,anzahl,distanz,vorkommen
+1,Lernen,Kunstgewerbe,gestalt,5,2.0,5
+1,Lernen,Kunstgewerbe,funktionalismus,4,1.0,5
+1,Lernen,Kunstgewerbe,funktionen,4,0.5,5
+1,Lernen,Kunstgewerbe,publikumsgeschmack,4,1.0,5
+1,Lernen,Kunstgewerbe,beherrschung,3,2.0,5
+1,Lernen,Kunstgewerbe,form,3,2.0,5
+1,Lernen,Kunstgewerbe,gegeben,3,1.0,5
+2,Einrichten in der Moderne,konkret,kunst,32,1.22,13
+2,Einrichten in der Moderne,konkret,verschieden,9,1.33,13
+2,Einrichten in der Moderne,konkret,thema,8,1.5,13
+2,Einrichten in der Moderne,konkret,bewegung,7,1.29,13
+2,Einrichten in der Moderne,konkret,beweis,6,1.17,13
+2,Einrichten in der Moderne,konkret,fehler,6,1.33,13
+2,Einrichten in der Moderne,konkret,behauptung,5,2.0,13
+2,Einrichten in der Moderne,konkret,epoche,5,2.0,13
+2,Einrichten in der Moderne,konkret,innewohnend,5,1.2,13
+2,Einrichten in der Moderne,konkret,kraft,5,1.0,13
+2,Einrichten in der Moderne,konkret,natur,5,1.2,13
+2,Einrichten in der Moderne,konkret,phantastisch,5,2.0,13
+2,Einrichten in der Moderne,konkret,ren,5,2.0,13
+2,Einrichten in der Moderne,konkret,sinn,5,0.2,13
+2,Einrichten in der Moderne,konkret,theoretisch,5,1.4,13
+2,Einrichten in der Moderne,konkret,aegypter,4,1.25,13
+2,Einrichten in der Moderne,konkret,ausmenschenähnlich,4,1.25,13
+2,Einrichten in der Moderne,konkret,ben,4,1.25,13
+2,Einrichten in der Moderne,konkret,einzig,4,1.0,13
+2,Einrichten in der Moderne,konkret,glaube,4,1.25,13
+2,Einrichten in der Moderne,konkret,glauben,4,1.25,13
+2,Einrichten in der Moderne,konkret,glaukein,4,1.25,13
+2,Einrichten in der Moderne,konkret,gott,4,1.25,13
+2,Einrichten in der Moderne,konkret,grieche,4,1.25,13
+2,Einrichten in der Moderne,konkret,grundidee,4,1.0,13
+2,Einrichten in der Moderne,konkret,halbgötter,4,1.25,13
+2,Einrichten in der Moderne,konkret,heidrucksmittel,4,1.25,13
+2,Einrichten in der Moderne,konkret,jugend,4,1.0,13
+2,Einrichten in der Moderne,konkret,kenntnis,4,1.0,13
+2,Einrichten in der Moderne,konkret,lebendigkeit,4,1.25,13
+2,Einrichten in der Moderne,konkret,ligenverehrung,4,1.25,13
+2,Einrichten in der Moderne,konkret,maler,4,1.25,13
+2,Einrichten in der Moderne,konkret,mensch,4,1.25,13
+2,Einrichten in der Moderne,konkret,mittelalter,4,1.25,13
+2,Einrichten in der Moderne,konkret,naturalismus,4,1.0,13
+2,Einrichten in der Moderne,konkret,plastiker,4,1.25,13
+2,Einrichten in der Moderne,konkret,real,4,1.25,13
+2,Einrichten in der Moderne,konkret,stichhaltig,4,1.25,13
+2,Einrichten in der Moderne,konkret,studierend,4,2.0,13
+2,Einrichten in der Moderne,konkret,swb,4,2.0,13
+2,Einrichten in der Moderne,konkret,themas,4,1.0,13
+2,Einrichten in der Moderne,konkret,variationen,4,2.0,13
+2,Einrichten in der Moderne,konkret,wachsend,4,1.25,13
+2,Einrichten in der Moderne,konkret,weiterentwicklung,4,1.25,13
+2,Einrichten in der Moderne,konkret,zahl,4,1.25,13
+2,Einrichten in der Moderne,konkret,angestrengt,3,1.33,13
+2,Einrichten in der Moderne,konkret,bestimmt,3,1.67,13
+2,Einrichten in der Moderne,konkret,denken,3,2.0,13
+2,Einrichten in der Moderne,konkret,gemachtem,3,1.33,13
+2,Einrichten in der Moderne,konkret,geüberhaupt,3,0.33,13
+2,Einrichten in der Moderne,konkret,grenze,3,1.67,13
+2,Einrichten in der Moderne,konkret,grundlage,3,0.33,13
+2,Einrichten in der Moderne,konkret,gruppe,3,1.33,13
+2,Einrichten in der Moderne,konkret,künstler,3,1.67,13
+2,Einrichten in der Moderne,konkret,resultat,3,1.33,13
+2,Einrichten in der Moderne,konkret,sichtbar,3,1.33,13
+2,Einrichten in der Moderne,konkret,tätigkeit,3,1.33,13
+2,Einrichten in der Moderne,konkret,ueber,3,0.33,13
+2,Einrichten in der Moderne,konkret,vermittlung,3,0.0,13
+2,Einrichten in der Moderne,konkret,werk,3,2.0,13
+2,Einrichten in der Moderne,moderne,kunst,7,0.86,4
+2,Einrichten in der Moderne,moderne,form,4,1.5,4
+2,Einrichten in der Moderne,moderne,einfluß,3,1.0,4
+2,Einrichten in der Moderne,moderne,neu,3,1.67,4
+2,Einrichten in der Moderne,moderne,schule,3,0.67,4
+2,Einrichten in der Moderne,moderne,wandlung,3,1.67,4
+2,Einrichten in der Moderne,privat,bauhaus,3,1.33,2
+2,Einrichten in der Moderne,wohnen,buch,3,1.67,1
+2,Einrichten in der Moderne,wohnen,schweizer,3,0.0,1
+3,Wiederaufbau und Warenästhetik,Design,institute,12,0.5,15
+3,Wiederaufbau und Warenästhetik,Design,hochschule,10,1.8,15
+3,Wiederaufbau und Warenästhetik,Design,architekturschule,8,0.5,15
+3,Wiederaufbau und Warenästhetik,Design,erziehung,8,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,frank,8,1.0,15
+3,Wiederaufbau und Warenästhetik,Design,lloyd,8,1.0,15
+3,Wiederaufbau und Warenästhetik,Design,schule,8,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,taliesin,8,1.0,15
+3,Wiederaufbau und Warenästhetik,Design,vordergrund,8,1.0,15
+3,Wiederaufbau und Warenästhetik,Design,ludwig,6,1.33,15
+3,Wiederaufbau und Warenästhetik,Design,mies,6,1.33,15
+3,Wiederaufbau und Warenästhetik,Design,möbeldesigner,6,1.67,15
+3,Wiederaufbau und Warenästhetik,Design,möbelfabrikant,6,1.83,15
+3,Wiederaufbau und Warenästhetik,Design,rohe,6,1.33,15
+3,Wiederaufbau und Warenästhetik,Design,umwelt,6,1.83,15
+3,Wiederaufbau und Warenästhetik,Design,zürich,5,1.2,15
+3,Wiederaufbau und Warenästhetik,Design,anderer,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,arbeitsprinzip,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,auffassung,4,0.5,15
+3,Wiederaufbau und Warenästhetik,Design,ausbildung,4,0.5,15
+3,Wiederaufbau und Warenästhetik,Design,ausbildungsprogramm,4,0.5,15
+3,Wiederaufbau und Warenästhetik,Design,bedürfnissen,4,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,beispiele,4,1.0,15
+3,Wiederaufbau und Warenästhetik,Design,bestehend,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,chance,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,chicago,4,0.5,15
+3,Wiederaufbau und Warenästhetik,Design,einsicht,4,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,gegensatz,4,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,gegenstände,4,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,gegenständen,4,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,gestaltungsfrage,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,gestellt,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,hauptgewicht,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,illinois,4,0.5,15
+3,Wiederaufbau und Warenästhetik,Design,institution,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,laszlo,4,0.5,15
+3,Wiederaufbau und Warenästhetik,Design,leiter,4,0.5,15
+3,Wiederaufbau und Warenästhetik,Design,mensch,4,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,persönlich,4,0.5,15
+3,Wiederaufbau und Warenästhetik,Design,persönlichkeit,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,produktform,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,produzent,4,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,raumgestaltung,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,schweiz,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,schweizer,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,schöpferisch,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,schüler,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,selbständig,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,sozial,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,technische,4,0.5,15
+3,Wiederaufbau und Warenästhetik,Design,technology,4,0.5,15
+3,Wiederaufbau und Warenästhetik,Design,typisch,4,1.0,15
+3,Wiederaufbau und Warenästhetik,Design,verantwortung,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,verbindung,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,versuch,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,wright,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,zeitschrift,4,1.5,15
+3,Wiederaufbau und Warenästhetik,Design,ähnlich,4,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,biel,3,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,ergebnis,3,1.33,15
+3,Wiederaufbau und Warenästhetik,Design,fragebogen,3,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,hallenschwimmbad,3,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,interieur,3,1.67,15
+3,Wiederaufbau und Warenästhetik,Design,kongresshaus,3,2.0,15
+3,Wiederaufbau und Warenästhetik,Design,konsumenten,3,1.33,15
+3,Wiederaufbau und Warenästhetik,Design,modeerscheinunge,3,1.33,15
+3,Wiederaufbau und Warenästhetik,Design,möbelfabrikanten,3,1.67,15
+3,Wiederaufbau und Warenästhetik,Design,notwendigkeit,3,1.33,15
+3,Wiederaufbau und Warenästhetik,Design,objekte,3,1.33,15
+3,Wiederaufbau und Warenästhetik,Design,raum,3,2.0,15
+3,Wiederaufbau und Warenästhetik,Industrial,designer,20,1.3,24
+3,Wiederaufbau und Warenästhetik,Industrial,schweiz,20,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,gestaltung,19,1.63,24
+3,Wiederaufbau und Warenästhetik,Industrial,umwelt,16,1.88,24
+3,Wiederaufbau und Warenästhetik,Industrial,design,14,1.43,24
+3,Wiederaufbau und Warenästhetik,Industrial,gestalter,14,1.71,24
+3,Wiederaufbau und Warenästhetik,Industrial,auftraggeber,11,1.45,24
+3,Wiederaufbau und Warenästhetik,Industrial,mensch,9,1.44,24
+3,Wiederaufbau und Warenästhetik,Industrial,entwicklung,8,1.62,24
+3,Wiederaufbau und Warenästhetik,Industrial,gegenstände,8,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,möbeldesigner,8,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,möbelfabrikant,8,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,ähnlich,8,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,grundlage,7,1.43,24
+3,Wiederaufbau und Warenästhetik,Industrial,schule,7,1.71,24
+3,Wiederaufbau und Warenästhetik,Industrial,schweizer,6,1.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,form,5,1.8,24
+3,Wiederaufbau und Warenästhetik,Industrial,jung,5,1.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,notwendigkeit,5,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,schweizerisch,5,1.2,24
+3,Wiederaufbau und Warenästhetik,Industrial,zahl,5,1.4,24
+3,Wiederaufbau und Warenästhetik,Industrial,zweck,5,1.8,24
+3,Wiederaufbau und Warenästhetik,Industrial,zürich,5,1.2,24
+3,Wiederaufbau und Warenästhetik,Industrial,abkommen,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,architekt,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,ausbildung,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,bedürfnissen,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,beispiele,4,1.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,beratend,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,bestimmt,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,bezeichnung,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,biel,4,1.75,24
+3,Wiederaufbau und Warenästhetik,Industrial,brauchbar,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,chance,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,detail,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,einsicht,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,fragebogen,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,funktionell,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,gegensatz,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,gegenstand,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,gegenständen,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,gerecht,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,grafiker,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,hallenschwimmbad,4,1.75,24
+3,Wiederaufbau und Warenästhetik,Industrial,industrie,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,industrieentwürfen,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,ingenieure,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,interieur,4,1.75,24
+3,Wiederaufbau und Warenästhetik,Industrial,klein,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,kongresshaus,4,1.75,24
+3,Wiederaufbau und Warenästhetik,Industrial,konsumenten,4,1.75,24
+3,Wiederaufbau und Warenästhetik,Industrial,kosmetik,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,modeerscheinunge,4,1.75,24
+3,Wiederaufbau und Warenästhetik,Industrial,modernistisch,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,möbelfabrikanten,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,problem,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,produktform,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,produzent,4,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,raum,4,1.75,24
+3,Wiederaufbau und Warenästhetik,Industrial,raumgestaltung,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,typisch,4,1.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,vorstellung,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,zeitschrift,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,zukunft,4,1.5,24
+3,Wiederaufbau und Warenästhetik,Industrial,ausbildungsweg,3,1.33,24
+3,Wiederaufbau und Warenästhetik,Industrial,beruf,3,0.33,24
+3,Wiederaufbau und Warenästhetik,Industrial,designern,3,1.33,24
+3,Wiederaufbau und Warenästhetik,Industrial,ergebnis,3,1.33,24
+3,Wiederaufbau und Warenästhetik,Industrial,gröss,3,1.33,24
+3,Wiederaufbau und Warenästhetik,Industrial,objekte,3,1.33,24
+3,Wiederaufbau und Warenästhetik,Industrial,prognos,3,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,textilindustrie,3,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,vereinbarung,3,1.33,24
+3,Wiederaufbau und Warenästhetik,Industrial,wahrscheinlichkeit,3,2.0,24
+3,Wiederaufbau und Warenästhetik,Industrial,zusammenarbeit,3,1.33,24
+3,Wiederaufbau und Warenästhetik,Industrial Design,gestaltung,11,1.55,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,möbeldesigner,6,1.67,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,möbelfabrikant,6,1.83,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,umwelt,6,1.83,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,zürich,5,1.2,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,bedürfnissen,4,2.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,beispiele,4,1.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,chance,4,1.5,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,einsicht,4,2.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,gegensatz,4,2.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,gegenstände,4,2.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,gegenständen,4,2.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,mensch,4,2.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,produktform,4,1.5,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,produzent,4,2.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,raumgestaltung,4,1.5,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,schweiz,4,1.5,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,schweizer,4,1.5,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,typisch,4,1.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,zeitschrift,4,1.5,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,ähnlich,4,2.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,biel,3,2.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,ergebnis,3,1.33,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,fragebogen,3,2.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,hallenschwimmbad,3,2.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,interieur,3,1.67,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,kongresshaus,3,2.0,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,konsumenten,3,1.33,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,modeerscheinunge,3,1.33,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,möbelfabrikanten,3,1.67,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,notwendigkeit,3,1.33,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,objekte,3,1.33,11
+3,Wiederaufbau und Warenästhetik,Industrial Design,raum,3,2.0,11
+3,Wiederaufbau und Warenästhetik,serie,architekten,6,0.67,4
+3,Wiederaufbau und Warenästhetik,serie,weltkrieg,6,1.67,4
+3,Wiederaufbau und Warenästhetik,serie,anbeginn,3,0.33,4
+3,Wiederaufbau und Warenästhetik,serie,beginn,3,0.33,4
+3,Wiederaufbau und Warenästhetik,serie,breuer,3,1.67,4
+3,Wiederaufbau und Warenästhetik,serie,bugholzsessel,3,0.67,4
+3,Wiederaufbau und Warenästhetik,serie,corbusier,3,1.67,4
+3,Wiederaufbau und Warenästhetik,serie,epoche,3,1.67,4
+3,Wiederaufbau und Warenästhetik,serie,erfunden,3,0.67,4
+3,Wiederaufbau und Warenästhetik,serie,fantasie,3,0.67,4
+3,Wiederaufbau und Warenästhetik,serie,führend,3,0.67,4
+3,Wiederaufbau und Warenästhetik,serie,handwerklich,3,0.33,4
+3,Wiederaufbau und Warenästhetik,serie,ludwig,3,1.67,4
+3,Wiederaufbau und Warenästhetik,serie,machart,3,0.33,4
+3,Wiederaufbau und Warenästhetik,serie,marcel,3,1.67,4
+3,Wiederaufbau und Warenästhetik,serie,mart,3,1.67,4
+3,Wiederaufbau und Warenästhetik,serie,mies,3,1.67,4
+3,Wiederaufbau und Warenästhetik,serie,möbel,3,0.33,4
+3,Wiederaufbau und Warenästhetik,serie,möbelbau,3,0.67,4
+3,Wiederaufbau und Warenästhetik,serie,rohe,3,1.67,4
+3,Wiederaufbau und Warenästhetik,serie,stahlrohrmöbel,3,1.67,4
+3,Wiederaufbau und Warenästhetik,serie,stam,3,1.67,4
+3,Wiederaufbau und Warenästhetik,serie,thonet,3,0.67,4
+3,Wiederaufbau und Warenästhetik,serie,welle,3,0.67,4
+4,Lehre,Erziehung,mensch,19,1.37,25
+4,Lehre,Erziehung,institute,16,1.62,25
+4,Lehre,Erziehung,leben,16,1.62,25
+4,Lehre,Erziehung,sinn,15,1.07,25
+4,Lehre,Erziehung,bauhaus,12,1.0,25
+4,Lehre,Erziehung,einfluß,12,1.5,25
+4,Lehre,Erziehung,frank,12,0.83,25
+4,Lehre,Erziehung,gestaltung,12,1.5,25
+4,Lehre,Erziehung,hochschule,12,2.0,25
+4,Lehre,Erziehung,lloyd,12,0.83,25
+4,Lehre,Erziehung,mauer,12,1.5,25
+4,Lehre,Erziehung,buch,11,1.82,25
+4,Lehre,Erziehung,schüler,11,0.82,25
+4,Lehre,Erziehung,selbständig,10,1.4,25
+4,Lehre,Erziehung,künstler,9,0.78,25
+4,Lehre,Erziehung,technisch,9,1.89,25
+4,Lehre,Erziehung,architekturschule,8,1.5,25
+4,Lehre,Erziehung,aufgabe,8,2.0,25
+4,Lehre,Erziehung,chicago,8,1.75,25
+4,Lehre,Erziehung,design,8,1.5,25
+4,Lehre,Erziehung,form,8,1.62,25
+4,Lehre,Erziehung,illinois,8,1.75,25
+4,Lehre,Erziehung,taliesin,8,1.0,25
+4,Lehre,Erziehung,technology,8,1.75,25
+4,Lehre,Erziehung,vordergrund,8,1.0,25
+4,Lehre,Erziehung,wright,8,0.25,25
+4,Lehre,Erziehung,fortschrittlich,7,1.57,25
+4,Lehre,Erziehung,problem,7,1.71,25
+4,Lehre,Erziehung,ding,6,1.0,25
+4,Lehre,Erziehung,dressur,6,1.33,25
+4,Lehre,Erziehung,entwicklung,6,1.5,25
+4,Lehre,Erziehung,erziehungssystem,6,1.67,25
+4,Lehre,Erziehung,formung,6,1.33,25
+4,Lehre,Erziehung,führend,6,0.67,25
+4,Lehre,Erziehung,gegensatz,6,2.0,25
+4,Lehre,Erziehung,geistig,6,1.67,25
+4,Lehre,Erziehung,gesamt,6,1.67,25
+4,Lehre,Erziehung,gesamtheit,6,2.0,25
+4,Lehre,Erziehung,grundveranlagung,6,1.33,25
+4,Lehre,Erziehung,institution,6,2.0,25
+4,Lehre,Erziehung,schöpferisch,6,0.67,25
+4,Lehre,Erziehung,ursprünglich,6,1.33,25
+4,Lehre,Erziehung,gegenstand,5,0.8,25
+4,Lehre,Erziehung,grundlage,5,0.6,25
+4,Lehre,Erziehung,kulturell,5,0.6,25
+4,Lehre,Erziehung,kunstgewerbeschule,5,1.8,25
+4,Lehre,Erziehung,umgebung,5,1.6,25
+4,Lehre,Erziehung,zukunft,5,1.4,25
+4,Lehre,Erziehung,anderer,4,0.0,25
+4,Lehre,Erziehung,arbeit,4,1.5,25
+4,Lehre,Erziehung,arbeitsprinzip,4,0.0,25
+4,Lehre,Erziehung,arizona,4,1.5,25
+4,Lehre,Erziehung,aspekt,4,2.0,25
+4,Lehre,Erziehung,auffassung,4,2.0,25
+4,Lehre,Erziehung,ausbildungsprogramm,4,2.0,25
+4,Lehre,Erziehung,beginn,4,0.5,25
+4,Lehre,Erziehung,beschränkt,4,1.5,25
+4,Lehre,Erziehung,bresche,4,0.5,25
+4,Lehre,Erziehung,einzig,4,0.5,25
+4,Lehre,Erziehung,england,4,0.5,25
+4,Lehre,Erziehung,erneuerung,4,0.5,25
+4,Lehre,Erziehung,erzeugnis,4,1.75,25
+4,Lehre,Erziehung,gefahr,4,0.5,25
+4,Lehre,Erziehung,gegenwärtig,4,1.0,25
+4,Lehre,Erziehung,gesellschaft,4,2.0,25
+4,Lehre,Erziehung,gestalterisch,4,0.5,25
+4,Lehre,Erziehung,gestaltungsfrage,4,0.0,25
+4,Lehre,Erziehung,gestaltungsgebiet,4,1.5,25
+4,Lehre,Erziehung,gestellt,4,0.0,25
+4,Lehre,Erziehung,glas,4,1.5,25
+4,Lehre,Erziehung,handwerk,4,0.5,25
+4,Lehre,Erziehung,hannes,4,2.0,25
+4,Lehre,Erziehung,hauptgewicht,4,0.0,25
+4,Lehre,Erziehung,holz,4,1.5,25
+4,Lehre,Erziehung,industrialisierung,4,0.5,25
+4,Lehre,Erziehung,jahrhundert,4,0.5,25
+4,Lehre,Erziehung,klar,4,2.0,25
+4,Lehre,Erziehung,laszlo,4,2.0,25
+4,Lehre,Erziehung,leiter,4,2.0,25
+4,Lehre,Erziehung,meyer,4,2.0,25
+4,Lehre,Erziehung,moralisch,4,2.0,25
+4,Lehre,Erziehung,morris,4,0.5,25
+4,Lehre,Erziehung,möglichkeit,4,0.5,25
+4,Lehre,Erziehung,nachhaltend,4,1.0,25
+4,Lehre,Erziehung,nazi,4,2.0,25
+4,Lehre,Erziehung,persönlich,4,2.0,25
+4,Lehre,Erziehung,persönlichkeit,4,0.0,25
+4,Lehre,Erziehung,phoenix,4,1.5,25
+4,Lehre,Erziehung,propaganda,4,1.5,25
+4,Lehre,Erziehung,republik,4,1.0,25
+4,Lehre,Erziehung,ruskin,4,0.5,25
+4,Lehre,Erziehung,rücktritt,4,2.0,25
+4,Lehre,Erziehung,schwergewicht,4,0.5,25
+4,Lehre,Erziehung,schön,4,1.0,25
+4,Lehre,Erziehung,segeltuch,4,1.5,25
+4,Lehre,Erziehung,sektor,4,1.5,25
+4,Lehre,Erziehung,sozial,4,0.0,25
+4,Lehre,Erziehung,studierend,4,1.0,25
+4,Lehre,Erziehung,technische,4,1.0,25
+4,Lehre,Erziehung,themenkreis,4,1.5,25
+4,Lehre,Erziehung,täglich,4,1.0,25
+4,Lehre,Erziehung,usa,4,1.5,25
+4,Lehre,Erziehung,velde,4,1.5,25
+4,Lehre,Erziehung,verantwortung,4,0.0,25
+4,Lehre,Erziehung,verbindung,4,0.0,25
+4,Lehre,Erziehung,weimarer,4,1.0,25
+4,Lehre,Erziehung,wohlbefinden,4,2.0,25
+4,Lehre,Erziehung,wüste,4,1.5,25
+4,Lehre,Erziehung,ziel,4,1.0,25
+4,Lehre,Erziehung,ästhetisch,4,2.0,25
+4,Lehre,Erziehung,handeln,3,0.67,25
+4,Lehre,Erziehung,kunst,3,2.0,25
+4,Lehre,Erziehung,materiell,3,1.33,25
+4,Lehre,Erziehung,menschlich,3,2.0,25
+4,Lehre,Erziehung,umwelt,3,2.0,25
+4,Lehre,Erziehung,voraussetzung,3,1.33,25
+4,Lehre,Morphologie,methode,9,2.0,10
+4,Lehre,Morphologie,morphologisch,9,1.89,10
+4,Lehre,Morphologie,feld,8,1.62,10
+4,Lehre,Morphologie,gestalten,8,2.0,10
+4,Lehre,Morphologie,gestalt,7,1.86,10
+4,Lehre,Morphologie,gestaltung,6,1.67,10
+4,Lehre,Morphologie,fehlleistungen,5,1.6,10
+4,Lehre,Morphologie,gefüge,5,1.6,10
+4,Lehre,Morphologie,gesund,5,1.2,10
+4,Lehre,Morphologie,persönlich,5,1.6,10
+4,Lehre,Morphologie,vernunft,5,1.2,10
+4,Lehre,Morphologie,anderer,4,1.25,10
+4,Lehre,Morphologie,anwendbarkeit,4,1.25,10
+4,Lehre,Morphologie,anwendung,4,1.25,10
+4,Lehre,Morphologie,ausmass,4,1.25,10
+4,Lehre,Morphologie,bekontrollmöglichkeit,4,1.5,10
+4,Lehre,Morphologie,beweis,4,1.25,10
+4,Lehre,Morphologie,bilindem,4,1.5,10
+4,Lehre,Morphologie,einheitlich,4,1.25,10
+4,Lehre,Morphologie,exakt,4,1.25,10
+4,Lehre,Morphologie,feldes,4,1.25,10
+4,Lehre,Morphologie,gebrauchszweck,4,2.0,10
+4,Lehre,Morphologie,gegenstände,4,1.25,10
+4,Lehre,Morphologie,gesichtspunkt,4,1.75,10
+4,Lehre,Morphologie,herstellung,4,1.25,10
+4,Lehre,Morphologie,komponenten,4,1.5,10
+4,Lehre,Morphologie,nützlichkeitsbedingt,4,2.0,10
+4,Lehre,Morphologie,plastik,4,1.5,10
+4,Lehre,Morphologie,sache,4,1.75,10
+4,Lehre,Morphologie,scheinlich,4,1.5,10
+4,Lehre,Morphologie,schränkt,4,1.25,10
+4,Lehre,Morphologie,untersuchung,4,1.5,10
+4,Lehre,Morphologie,verschieden,4,1.5,10
+4,Lehre,Morphologie,wahl,4,1.25,10
+4,Lehre,Morphologie,wahrdarin,4,1.5,10
+4,Lehre,Morphologie,zahl,4,1.5,10
+4,Lehre,Morphologie,angelegenheit,3,1.33,10
+4,Lehre,Morphologie,aufbau,3,1.33,10
+4,Lehre,Morphologie,ausschaltung,3,1.67,10
+4,Lehre,Morphologie,begriff,3,2.0,10
+4,Lehre,Morphologie,bevorzugung,3,1.67,10
+4,Lehre,Morphologie,definition,3,1.67,10
+4,Lehre,Morphologie,deformation,3,1.33,10
+4,Lehre,Morphologie,gebiet,3,2.0,10
+4,Lehre,Morphologie,gegensatz,3,1.0,10
+4,Lehre,Morphologie,kunst,3,2.0,10
+4,Lehre,Morphologie,menschenverstanverwechslung,3,1.33,10
+4,Lehre,Morphologie,problemein,3,1.33,10
+4,Lehre,Morphologie,problemstellung,3,2.0,10
+4,Lehre,Morphologie,rein,3,1.33,10
+4,Lehre,Morphologie,stellung,3,1.33,10
+4,Lehre,Morphologie,strukturtheorie,3,1.33,10
+4,Lehre,Morphologie,systemaeiner,3,1.67,10
+4,Lehre,Morphologie,wahrscheinlich,3,1.67,10
+4,Lehre,Produktform,schöpferisch,12,1.42,12
+4,Lehre,Produktform,form,11,1.55,12
+4,Lehre,Produktform,produkt,9,1.78,12
+4,Lehre,Produktform,begriff,8,1.88,12
+4,Lehre,Produktform,fähigkeiten,7,1.43,12
+4,Lehre,Produktform,zusammenhang,6,1.83,12
+4,Lehre,Produktform,kultur,5,1.4,12
+4,Lehre,Produktform,technik,5,1.8,12
+4,Lehre,Produktform,verbindung,5,1.0,12
+4,Lehre,Produktform,grund,4,1.5,12
+4,Lehre,Produktform,mensch,4,1.25,12
+4,Lehre,Produktform,anwendung,3,2.0,12
+4,Lehre,Produktform,arbeit,3,1.67,12
+4,Lehre,Produktform,begriffe,3,1.0,12
+4,Lehre,Produktform,eigenden,3,1.33,12
+4,Lehre,Produktform,entwicklung,3,0.67,12
+4,Lehre,Produktform,existenz,3,2.0,12
+4,Lehre,Produktform,experiment,3,2.0,12
+4,Lehre,Produktform,fähigkeit,3,1.33,12
+4,Lehre,Produktform,gegensatz,3,1.33,12
+4,Lehre,Produktform,gestalt,3,1.67,12
+4,Lehre,Produktform,kombination,3,1.33,12
+4,Lehre,Produktform,konzentrationen,3,1.33,12
+4,Lehre,Produktform,lebewesen,3,1.33,12
+4,Lehre,Produktform,mender,3,1.0,12
+4,Lehre,Produktform,menschlich,3,1.33,12
+4,Lehre,Produktform,merkmal,3,2.0,12
+4,Lehre,Produktform,morphologisch,3,1.33,12
+4,Lehre,Produktform,nährboden,3,1.0,12
+4,Lehre,Produktform,problem,3,1.0,12
+4,Lehre,Produktform,schen,3,1.0,12
+4,Lehre,Produktform,tätigkeit,3,1.33,12
+4,Lehre,Produktform,vorgenannt,3,1.0,12
+4,Lehre,Umweltgestaltung,umwelt,18,1.94,19
+4,Lehre,Umweltgestaltung,mensch,15,1.6,19
+4,Lehre,Umweltgestaltung,ästhetisch,15,1.87,19
+4,Lehre,Umweltgestaltung,technisch,13,1.69,19
+4,Lehre,Umweltgestaltung,begriff,11,1.45,19
+4,Lehre,Umweltgestaltung,schöpferisch,11,1.82,19
+4,Lehre,Umweltgestaltung,dinge,9,2.0,19
+4,Lehre,Umweltgestaltung,gebiet,9,1.22,19
+4,Lehre,Umweltgestaltung,methode,8,2.0,19
+4,Lehre,Umweltgestaltung,tätigkeit,8,1.62,19
+4,Lehre,Umweltgestaltung,gestaltung,7,2.0,19
+4,Lehre,Umweltgestaltung,technik,7,2.0,19
+4,Lehre,Umweltgestaltung,ziel,7,1.29,19
+4,Lehre,Umweltgestaltung,dingen,6,1.67,19
+4,Lehre,Umweltgestaltung,entwicklung,6,1.67,19
+4,Lehre,Umweltgestaltung,denken,5,2.0,19
+4,Lehre,Umweltgestaltung,bereich,4,1.0,19
+4,Lehre,Umweltgestaltung,existenz,4,2.0,19
+4,Lehre,Umweltgestaltung,experiment,4,0.75,19
+4,Lehre,Umweltgestaltung,experimentcharakter,4,2.0,19
+4,Lehre,Umweltgestaltung,fall,4,1.75,19
+4,Lehre,Umweltgestaltung,hochschule,4,2.0,19
+4,Lehre,Umweltgestaltung,methodisch,4,1.5,19
+4,Lehre,Umweltgestaltung,neu,4,2.0,19
+4,Lehre,Umweltgestaltung,ulm,4,0.75,19
+4,Lehre,Umweltgestaltung,umgebung,4,1.25,19
+4,Lehre,Umweltgestaltung,umwelteinrichtung,4,1.25,19
+4,Lehre,Umweltgestaltung,welt,4,1.5,19
+4,Lehre,Umweltgestaltung,zusammenhang,4,2.0,19
+4,Lehre,Umweltgestaltung,einflüssen,3,1.67,19
+4,Lehre,Umweltgestaltung,einheit,3,1.33,19
+4,Lehre,Umweltgestaltung,exportindustrie,3,1.0,19
+4,Lehre,Umweltgestaltung,fähigkeiten,3,1.67,19
+4,Lehre,Umweltgestaltung,gegenstände,3,0.67,19
+4,Lehre,Umweltgestaltung,gehend,3,1.67,19
+4,Lehre,Umweltgestaltung,gesamt,3,1.0,19
+4,Lehre,Umweltgestaltung,institut,3,1.67,19
+4,Lehre,Umweltgestaltung,kernreaktor,3,1.33,19
+4,Lehre,Umweltgestaltung,kunst,3,0.67,19
+4,Lehre,Umweltgestaltung,maschine,3,1.67,19
+4,Lehre,Umweltgestaltung,rechenautomaten,3,1.33,19
+4,Lehre,Umweltgestaltung,schlüsse,3,1.67,19
+4,Lehre,Umweltgestaltung,selbstzweck,3,1.33,19
+4,Lehre,Umweltgestaltung,sphäre,3,1.67,19
+4,Lehre,Umweltgestaltung,stärke,3,1.33,19
+4,Lehre,Umweltgestaltung,ulmer,3,2.0,19
+4,Lehre,Umweltgestaltung,unkontrollierbar,3,1.67,19
+4,Lehre,Umweltgestaltung,verschieden,3,1.67,19
+5,Schönheit aus/als Funktion,Form,kunst,96,1.53,149
+5,Schönheit aus/als Funktion,Form,schönheit,96,1.58,149
+5,Schönheit aus/als Funktion,Form,kunstwerk,89,1.34,149
+5,Schönheit aus/als Funktion,Form,bezeichnung,60,1.22,149
+5,Schönheit aus/als Funktion,Form,funktion,58,1.59,149
+5,Schönheit aus/als Funktion,Form,raum,52,1.42,149
+5,Schönheit aus/als Funktion,Form,funktionen,45,1.82,149
+5,Schönheit aus/als Funktion,Form,gestalt,45,1.84,149
+5,Schönheit aus/als Funktion,Form,sinn,45,1.49,149
+5,Schönheit aus/als Funktion,Form,letzter,41,1.61,149
+5,Schönheit aus/als Funktion,Form,harmonisch,37,1.73,149
+5,Schönheit aus/als Funktion,Form,begriff,36,1.75,149
+5,Schönheit aus/als Funktion,Form,wort,35,1.89,149
+5,Schönheit aus/als Funktion,Form,qualität,34,1.5,149
+5,Schönheit aus/als Funktion,Form,natur,33,1.67,149
+5,Schönheit aus/als Funktion,Form,vollkommen,33,1.67,149
+5,Schönheit aus/als Funktion,Form,kategorie,32,1.56,149
+5,Schönheit aus/als Funktion,Form,schön,32,1.22,149
+5,Schönheit aus/als Funktion,Form,technik,32,1.56,149
+5,Schönheit aus/als Funktion,Form,ausdruck,31,1.77,149
+5,Schönheit aus/als Funktion,Form,erzeugnis,31,1.77,149
+5,Schönheit aus/als Funktion,Form,farbe,30,1.4,149
+5,Schönheit aus/als Funktion,Form,bestandteil,29,1.45,149
+5,Schönheit aus/als Funktion,Form,gestaltung,29,1.93,149
+5,Schönheit aus/als Funktion,Form,idee,29,1.66,149
+5,Schönheit aus/als Funktion,Form,materie,29,1.76,149
+5,Schönheit aus/als Funktion,Form,mensch,29,1.52,149
+5,Schönheit aus/als Funktion,Form,zusammenhang,28,1.36,149
+5,Schönheit aus/als Funktion,Form,ergebnis,27,1.7,149
+5,Schönheit aus/als Funktion,Form,existenz,27,1.52,149
+5,Schönheit aus/als Funktion,Form,technisch,27,1.78,149
+5,Schönheit aus/als Funktion,Form,merkmal,26,1.96,149
+5,Schönheit aus/als Funktion,Form,gesamtheit,25,1.68,149
+5,Schönheit aus/als Funktion,Form,positiv,25,1.04,149
+5,Schönheit aus/als Funktion,Form,rein,25,1.6,149
+5,Schönheit aus/als Funktion,Form,baum,24,1.75,149
+5,Schönheit aus/als Funktion,Form,einzeln,24,1.58,149
+5,Schönheit aus/als Funktion,Form,schönen,24,1.92,149
+5,Schönheit aus/als Funktion,Form,argument,23,1.61,149
+5,Schönheit aus/als Funktion,Form,einheit,23,1.57,149
+5,Schönheit aus/als Funktion,Form,autonom,22,1.5,149
+5,Schönheit aus/als Funktion,Form,erklärung,22,1.55,149
+5,Schönheit aus/als Funktion,Form,schöne,22,1.18,149
+5,Schönheit aus/als Funktion,Form,zweck,22,1.5,149
+5,Schönheit aus/als Funktion,Form,endes,20,1.4,149
+5,Schönheit aus/als Funktion,Form,maschine,20,1.8,149
+5,Schönheit aus/als Funktion,Form,faktor,19,1.58,149
+5,Schönheit aus/als Funktion,Form,frage,18,1.39,149
+5,Schönheit aus/als Funktion,Form,kunstwerkes,18,1.33,149
+5,Schönheit aus/als Funktion,Form,produkt,18,1.56,149
+5,Schönheit aus/als Funktion,Form,summe,18,1.56,149
+5,Schönheit aus/als Funktion,Form,werk,18,1.94,149
+5,Schönheit aus/als Funktion,Form,grund,17,1.24,149
+5,Schönheit aus/als Funktion,Form,gültig,17,1.71,149
+5,Schönheit aus/als Funktion,Form,irgendwelcher,17,1.71,149
+5,Schönheit aus/als Funktion,Form,plastisch,17,1.24,149
+5,Schönheit aus/als Funktion,Form,blatt,16,1.75,149
+5,Schönheit aus/als Funktion,Form,einzelteil,16,2.0,149
+5,Schönheit aus/als Funktion,Form,element,16,1.88,149
+5,Schönheit aus/als Funktion,Form,gliederung,16,2.0,149
+5,Schönheit aus/als Funktion,Form,landschaft,16,1.75,149
+5,Schönheit aus/als Funktion,Form,arbeit,15,1.8,149
+5,Schönheit aus/als Funktion,Form,beziehung,15,1.73,149
+5,Schönheit aus/als Funktion,Form,gegensatz,15,1.07,149
+5,Schönheit aus/als Funktion,Form,gesetzmäßigkeit,15,1.6,149
+5,Schönheit aus/als Funktion,Form,charakteristisch,14,1.93,149
+5,Schönheit aus/als Funktion,Form,entscheidend,14,1.64,149
+5,Schönheit aus/als Funktion,Form,entstehung,14,1.93,149
+5,Schönheit aus/als Funktion,Form,fläche,14,1.57,149
+5,Schönheit aus/als Funktion,Form,formgebung,14,1.93,149
+5,Schönheit aus/als Funktion,Form,neu,14,1.57,149
+5,Schönheit aus/als Funktion,Form,brauchbar,13,0.92,149
+5,Schönheit aus/als Funktion,Form,eingeschränkt,13,1.85,149
+5,Schönheit aus/als Funktion,Form,gruppe,13,1.85,149
+5,Schönheit aus/als Funktion,Form,material,13,1.15,149
+5,Schönheit aus/als Funktion,Form,maß,13,1.69,149
+5,Schönheit aus/als Funktion,Form,sichtbar,13,1.92,149
+5,Schönheit aus/als Funktion,Form,speziell,13,1.23,149
+5,Schönheit aus/als Funktion,Form,stuhl,13,1.62,149
+5,Schönheit aus/als Funktion,Form,ziel,13,1.54,149
+5,Schönheit aus/als Funktion,Form,alltäglich,12,1.33,149
+5,Schönheit aus/als Funktion,Form,erscheinung,12,1.58,149
+5,Schönheit aus/als Funktion,Form,fehlen,12,1.0,149
+5,Schönheit aus/als Funktion,Form,gebrauch,12,1.25,149
+5,Schönheit aus/als Funktion,Form,hässlich,12,1.0,149
+5,Schönheit aus/als Funktion,Form,merkmale,12,2.0,149
+5,Schönheit aus/als Funktion,Form,negativ,12,1.0,149
+5,Schönheit aus/als Funktion,Form,nutzlos,12,1.0,149
+5,Schönheit aus/als Funktion,Form,perfekt,12,1.0,149
+5,Schönheit aus/als Funktion,Form,steigerungen,12,1.0,149
+5,Schönheit aus/als Funktion,Form,stilmerkmal,12,1.33,149
+5,Schönheit aus/als Funktion,Form,unersetzbar,12,1.33,149
+5,Schönheit aus/als Funktion,Form,vorstellung,12,2.0,149
+5,Schönheit aus/als Funktion,Form,ästhetisch,12,1.83,149
+5,Schönheit aus/als Funktion,Form,buch,11,1.82,149
+5,Schönheit aus/als Funktion,Form,denken,11,1.55,149
+5,Schönheit aus/als Funktion,Form,industrie,11,1.64,149
+5,Schönheit aus/als Funktion,Form,künstler,11,1.55,149
+5,Schönheit aus/als Funktion,Form,möbel,11,1.82,149
+5,Schönheit aus/als Funktion,Form,produktform,11,1.55,149
+5,Schönheit aus/als Funktion,Form,schöpferisch,11,1.36,149
+5,Schönheit aus/als Funktion,Form,erkenntnis,10,0.9,149
+5,Schönheit aus/als Funktion,Form,häßlich,10,1.8,149
+5,Schönheit aus/als Funktion,Form,mass,10,1.2,149
+5,Schönheit aus/als Funktion,Form,problem,10,1.6,149
+5,Schönheit aus/als Funktion,Form,spezifisch,10,1.5,149
+5,Schönheit aus/als Funktion,Form,unersetzlich,10,1.4,149
+5,Schönheit aus/als Funktion,Form,alt,9,2.0,149
+5,Schönheit aus/als Funktion,Form,benützer,9,0.56,149
+5,Schönheit aus/als Funktion,Form,einheitlichkeit,9,1.89,149
+5,Schönheit aus/als Funktion,Form,entstanden,9,2.0,149
+5,Schönheit aus/als Funktion,Form,fall,9,0.78,149
+5,Schönheit aus/als Funktion,Form,gebiet,9,1.44,149
+5,Schönheit aus/als Funktion,Form,geistig,9,1.33,149
+5,Schönheit aus/als Funktion,Form,kristall,9,1.56,149
+5,Schönheit aus/als Funktion,Form,kultur,9,1.67,149
+5,Schönheit aus/als Funktion,Form,mathematik,9,1.89,149
+5,Schönheit aus/als Funktion,Form,resultat,9,1.11,149
+5,Schönheit aus/als Funktion,Form,schöpfung,9,1.89,149
+5,Schönheit aus/als Funktion,Form,sitzen,9,1.78,149
+5,Schönheit aus/als Funktion,Form,stilmerkmalen,9,1.33,149
+5,Schönheit aus/als Funktion,Form,zutat,9,2.0,149
+5,Schönheit aus/als Funktion,Form,ökonomisch,9,1.22,149
+5,Schönheit aus/als Funktion,Form,aufgabe,8,1.75,149
+5,Schönheit aus/als Funktion,Form,bisherig,8,1.5,149
+5,Schönheit aus/als Funktion,Form,ding,8,1.5,149
+5,Schönheit aus/als Funktion,Form,erziehung,8,1.62,149
+5,Schönheit aus/als Funktion,Form,industriell,8,1.38,149
+5,Schönheit aus/als Funktion,Form,sessel,8,2.0,149
+5,Schönheit aus/als Funktion,Form,vantongerloo,8,1.88,149
+5,Schönheit aus/als Funktion,Form,wachstumsgesetz,8,1.75,149
+5,Schönheit aus/als Funktion,Form,wesentlich,8,1.75,149
+5,Schönheit aus/als Funktion,Form,absolut,7,1.57,149
+5,Schönheit aus/als Funktion,Form,architektur,7,1.43,149
+5,Schönheit aus/als Funktion,Form,entstehen,7,1.57,149
+5,Schönheit aus/als Funktion,Form,gebilde,7,1.14,149
+5,Schönheit aus/als Funktion,Form,georges,7,1.71,149
+5,Schönheit aus/als Funktion,Form,grundlage,7,0.86,149
+5,Schönheit aus/als Funktion,Form,käufer,7,1.14,149
+5,Schönheit aus/als Funktion,Form,möglichkeit,7,1.57,149
+5,Schönheit aus/als Funktion,Form,schluss,7,1.43,149
+5,Schönheit aus/als Funktion,Form,schweizer,7,0.86,149
+5,Schönheit aus/als Funktion,Form,spiel,7,1.43,149
+5,Schönheit aus/als Funktion,Form,text,7,1.71,149
+5,Schönheit aus/als Funktion,Form,titel,7,1.29,149
+5,Schönheit aus/als Funktion,Form,umwelt,7,1.29,149
+5,Schönheit aus/als Funktion,Form,wandlung,7,1.0,149
+5,Schönheit aus/als Funktion,Form,werkbund,7,0.86,149
+5,Schönheit aus/als Funktion,Form,überlegung,7,1.43,149
+5,Schönheit aus/als Funktion,Form,aesthetisch,6,1.83,149
+5,Schönheit aus/als Funktion,Form,ansicht,6,1.83,149
+5,Schönheit aus/als Funktion,Form,apparat,6,2.0,149
+5,Schönheit aus/als Funktion,Form,beherrschung,6,0.83,149
+5,Schönheit aus/als Funktion,Form,berücksichtigung,6,1.0,149
+5,Schönheit aus/als Funktion,Form,einzig,6,1.5,149
+5,Schönheit aus/als Funktion,Form,fehlschluß,6,1.5,149
+5,Schönheit aus/als Funktion,Form,fortschrittlich,6,1.33,149
+5,Schönheit aus/als Funktion,Form,gestalter,6,1.5,149
+5,Schönheit aus/als Funktion,Form,grenze,6,1.67,149
+5,Schönheit aus/als Funktion,Form,gropius,6,2.0,149
+5,Schönheit aus/als Funktion,Form,herstellungsprozeß,6,2.0,149
+5,Schönheit aus/als Funktion,Form,konstruktiv,6,1.67,149
+5,Schönheit aus/als Funktion,Form,malerei,6,1.5,149
+5,Schönheit aus/als Funktion,Form,neoplastizismus,6,1.17,149
+5,Schönheit aus/als Funktion,Form,paris,6,1.5,149
+5,Schönheit aus/als Funktion,Form,realismus,6,2.0,149
+5,Schönheit aus/als Funktion,Form,stromlinienstil,6,2.0,149
+5,Schönheit aus/als Funktion,Form,thema,6,1.5,149
+5,Schönheit aus/als Funktion,Form,unerklärbar,6,1.67,149
+5,Schönheit aus/als Funktion,Form,variationen,6,1.5,149
+5,Schönheit aus/als Funktion,Form,verständnis,6,1.67,149
+5,Schönheit aus/als Funktion,Form,vorbestimmt,6,1.5,149
+5,Schönheit aus/als Funktion,Form,walter,6,2.0,149
+5,Schönheit aus/als Funktion,Form,weltbild,6,0.67,149
+5,Schönheit aus/als Funktion,Form,zusammenwirkens,6,1.5,149
+5,Schönheit aus/als Funktion,Form,zwangsläufig,6,1.5,149
+5,Schönheit aus/als Funktion,Form,zwangsläufigkeit,6,1.67,149
+5,Schönheit aus/als Funktion,Form,absicht,5,1.0,149
+5,Schönheit aus/als Funktion,Form,aesthetik,5,1.4,149
+5,Schönheit aus/als Funktion,Form,anwendung,5,1.6,149
+5,Schönheit aus/als Funktion,Form,aufbau,5,1.0,149
+5,Schönheit aus/als Funktion,Form,auffassung,5,2.0,149
+5,Schönheit aus/als Funktion,Form,ausdrucksform,5,1.6,149
+5,Schönheit aus/als Funktion,Form,darstellung,5,1.8,149
+5,Schönheit aus/als Funktion,Form,elementar,5,2.0,149
+5,Schönheit aus/als Funktion,Form,gegeben,5,1.8,149
+5,Schönheit aus/als Funktion,Form,geometrisch,5,1.2,149
+5,Schönheit aus/als Funktion,Form,handhabung,5,1.6,149
+5,Schönheit aus/als Funktion,Form,heutig,5,1.4,149
+5,Schönheit aus/als Funktion,Form,künstlerisch,5,1.8,149
+5,Schönheit aus/als Funktion,Form,menschheit,5,2.0,149
+5,Schönheit aus/als Funktion,Form,primär,5,1.8,149
+5,Schönheit aus/als Funktion,Form,psychologisch,5,2.0,149
+5,Schönheit aus/als Funktion,Form,schweiz,5,1.6,149
+5,Schönheit aus/als Funktion,Form,sitzmöbel,5,0.6,149
+5,Schönheit aus/als Funktion,Form,sogenannter,5,1.8,149
+5,Schönheit aus/als Funktion,Form,verantwortungsbewußtsein,5,1.2,149
+5,Schönheit aus/als Funktion,Form,verbindung,5,1.2,149
+5,Schönheit aus/als Funktion,Form,vernünftig,5,1.6,149
+5,Schönheit aus/als Funktion,Form,wert,5,1.4,149
+5,Schönheit aus/als Funktion,Form,wissenschaft,5,1.6,149
+5,Schönheit aus/als Funktion,Form,abstrakt,4,1.0,149
+5,Schönheit aus/als Funktion,Form,allgemeingeschmack,4,1.5,149
+5,Schönheit aus/als Funktion,Form,aufkommen,4,1.75,149
+5,Schönheit aus/als Funktion,Form,automat,4,1.5,149
+5,Schönheit aus/als Funktion,Form,bedürfnis,4,1.75,149
+5,Schönheit aus/als Funktion,Form,beobachtung,4,1.25,149
+5,Schönheit aus/als Funktion,Form,bequemlichkeit,4,0.25,149
+5,Schönheit aus/als Funktion,Form,beruf,4,0.75,149
+5,Schönheit aus/als Funktion,Form,beschrieben,4,2.0,149
+5,Schönheit aus/als Funktion,Form,bevölkerungsschicht,4,1.0,149
+5,Schönheit aus/als Funktion,Form,breit,4,1.0,149
+5,Schönheit aus/als Funktion,Form,dauer,4,1.25,149
+5,Schönheit aus/als Funktion,Form,designer,4,2.0,149
+5,Schönheit aus/als Funktion,Form,deutsch,4,0.25,149
+5,Schönheit aus/als Funktion,Form,deutschland,4,2.0,149
+5,Schönheit aus/als Funktion,Form,durchführung,4,1.25,149
+5,Schönheit aus/als Funktion,Form,empfindend,4,1.0,149
+5,Schönheit aus/als Funktion,Form,empfindung,4,1.75,149
+5,Schönheit aus/als Funktion,Form,folge,4,1.0,149
+5,Schönheit aus/als Funktion,Form,grundelement,4,1.0,149
+5,Schönheit aus/als Funktion,Form,haushaltgerät,4,1.75,149
+5,Schönheit aus/als Funktion,Form,hemmnis,4,1.5,149
+5,Schönheit aus/als Funktion,Form,hergestellt,4,1.5,149
+5,Schönheit aus/als Funktion,Form,industriellen,4,0.75,149
+5,Schönheit aus/als Funktion,Form,inhalt,4,1.75,149
+5,Schönheit aus/als Funktion,Form,interesse,4,1.25,149
+5,Schönheit aus/als Funktion,Form,konsument,4,2.0,149
+5,Schönheit aus/als Funktion,Form,konvention,4,1.5,149
+5,Schönheit aus/als Funktion,Form,kreis,4,2.0,149
+5,Schönheit aus/als Funktion,Form,kulturpessimismus,4,2.0,149
+5,Schönheit aus/als Funktion,Form,künste,4,0.5,149
+5,Schönheit aus/als Funktion,Form,linie,4,1.25,149
+5,Schönheit aus/als Funktion,Form,maximum,4,2.0,149
+5,Schönheit aus/als Funktion,Form,modern,4,1.5,149
+5,Schönheit aus/als Funktion,Form,mustermesse,4,1.0,149
+5,Schönheit aus/als Funktion,Form,nachteil,4,1.25,149
+5,Schönheit aus/als Funktion,Form,negerplastik,4,1.0,149
+5,Schönheit aus/als Funktion,Form,rhythmus,4,1.0,149
+5,Schönheit aus/als Funktion,Form,scheinbar,4,1.5,149
+5,Schönheit aus/als Funktion,Form,schema,4,1.25,149
+5,Schönheit aus/als Funktion,Form,schluß,4,0.25,149
+5,Schönheit aus/als Funktion,Form,schrift,4,1.25,149
+5,Schönheit aus/als Funktion,Form,seiohne,4,2.0,149
+5,Schönheit aus/als Funktion,Form,sicherheit,4,1.0,149
+5,Schönheit aus/als Funktion,Form,stadt,4,1.75,149
+5,Schönheit aus/als Funktion,Form,velde,4,1.5,149
+5,Schönheit aus/als Funktion,Form,verbreitung,4,1.5,149
+5,Schönheit aus/als Funktion,Form,verwendung,4,1.75,149
+5,Schönheit aus/als Funktion,Form,vorbildlich,4,1.25,149
+5,Schönheit aus/als Funktion,Form,wanderausstellung,4,1.0,149
+5,Schönheit aus/als Funktion,Form,wirkung,4,1.0,149
+5,Schönheit aus/als Funktion,Form,zukunft,4,2.0,149
+5,Schönheit aus/als Funktion,Form,zweckmäßig,4,1.5,149
+5,Schönheit aus/als Funktion,Form,zweckmäßigkeit,4,1.25,149
+5,Schönheit aus/als Funktion,Form,österreich,4,1.5,149
+5,Schönheit aus/als Funktion,Form,übereinstimmung,4,1.5,149
+5,Schönheit aus/als Funktion,Form,amerikanisch,3,1.0,149
+5,Schönheit aus/als Funktion,Form,anderer,3,2.0,149
+5,Schönheit aus/als Funktion,Form,anspruch,3,2.0,149
+5,Schönheit aus/als Funktion,Form,aufmerksamkeit,3,0.67,149
+5,Schönheit aus/als Funktion,Form,ausdrucksmöglichkeit,3,1.67,149
+5,Schönheit aus/als Funktion,Form,auswirkung,3,0.33,149
+5,Schönheit aus/als Funktion,Form,auto,3,1.67,149
+5,Schönheit aus/als Funktion,Form,basel,3,1.33,149
+5,Schönheit aus/als Funktion,Form,bedarf,3,1.33,149
+5,Schönheit aus/als Funktion,Form,bestimmt,3,1.33,149
+5,Schönheit aus/als Funktion,Form,bezug,3,1.33,149
+5,Schönheit aus/als Funktion,Form,billig,3,2.0,149
+5,Schönheit aus/als Funktion,Form,brennpunkt,3,1.67,149
+5,Schönheit aus/als Funktion,Form,endgültig,3,0.67,149
+5,Schönheit aus/als Funktion,Form,experiment,3,1.67,149
+5,Schönheit aus/als Funktion,Form,falle,3,2.0,149
+5,Schönheit aus/als Funktion,Form,funktionell,3,0.67,149
+5,Schönheit aus/als Funktion,Form,fähigkeiten,3,2.0,149
+5,Schönheit aus/als Funktion,Form,gebrauchsgegenstandes,3,1.67,149
+5,Schönheit aus/als Funktion,Form,gebrauchsgegenständen,3,1.67,149
+5,Schönheit aus/als Funktion,Form,gefertigt,3,2.0,149
+5,Schönheit aus/als Funktion,Form,geometrie,3,0.33,149
+5,Schönheit aus/als Funktion,Form,geschichte,3,0.67,149
+5,Schönheit aus/als Funktion,Form,gesetz,3,1.67,149
+5,Schönheit aus/als Funktion,Form,gleichbleibend,3,0.67,149
+5,Schönheit aus/als Funktion,Form,haus,3,2.0,149
+5,Schönheit aus/als Funktion,Form,heft,3,1.0,149
+5,Schönheit aus/als Funktion,Form,herstellung,3,2.0,149
+5,Schönheit aus/als Funktion,Form,herstellungsmethode,3,0.67,149
+5,Schönheit aus/als Funktion,Form,hintergrund,3,2.0,149
+5,Schönheit aus/als Funktion,Form,kandinsky,3,1.67,149
+5,Schönheit aus/als Funktion,Form,klee,3,1.67,149
+5,Schönheit aus/als Funktion,Form,klein,3,1.0,149
+5,Schönheit aus/als Funktion,Form,kombination,3,1.67,149
+5,Schönheit aus/als Funktion,Form,kriterium,3,1.67,149
+5,Schönheit aus/als Funktion,Form,lage,3,1.67,149
+5,Schönheit aus/als Funktion,Form,leben,3,2.0,149
+5,Schönheit aus/als Funktion,Form,lehre,3,1.67,149
+5,Schönheit aus/als Funktion,Form,materialium,3,1.33,149
+5,Schönheit aus/als Funktion,Form,methode,3,2.0,149
+5,Schönheit aus/als Funktion,Form,methoden,3,1.33,149
+5,Schönheit aus/als Funktion,Form,mondrian,3,1.33,149
+5,Schönheit aus/als Funktion,Form,naturalismus,3,1.67,149
+5,Schönheit aus/als Funktion,Form,ner,3,0.67,149
+5,Schönheit aus/als Funktion,Form,ort,3,1.33,149
+5,Schönheit aus/als Funktion,Form,persönlich,3,2.0,149
+5,Schönheit aus/als Funktion,Form,praktisch,3,1.33,149
+5,Schönheit aus/als Funktion,Form,prozess,3,1.33,149
+5,Schönheit aus/als Funktion,Form,räumlich,3,1.33,149
+5,Schönheit aus/als Funktion,Form,schaffen,3,1.0,149
+5,Schönheit aus/als Funktion,Form,schritt,3,1.67,149
+5,Schönheit aus/als Funktion,Form,semantisch,3,0.33,149
+5,Schönheit aus/als Funktion,Form,spielerei,3,1.33,149
+5,Schönheit aus/als Funktion,Form,stil,3,1.33,149
+5,Schönheit aus/als Funktion,Form,strömung,3,1.33,149
+5,Schönheit aus/als Funktion,Form,synthetisch,3,1.0,149
+5,Schönheit aus/als Funktion,Form,tätigkeit,3,1.67,149
+5,Schönheit aus/als Funktion,Form,versuchsfreudig,3,1.67,149
+5,Schönheit aus/als Funktion,Form,verwaltung,3,2.0,149
+5,Schönheit aus/als Funktion,Form,vordergrund,3,1.67,149
+5,Schönheit aus/als Funktion,Form,werke,3,1.33,149
+5,Schönheit aus/als Funktion,Form,wesen,3,1.33,149
+5,Schönheit aus/als Funktion,Form,äusser,3,0.0,149
+5,Schönheit aus/als Funktion,Funktion,form,58,1.59,77
+5,Schönheit aus/als Funktion,Funktion,mensch,45,1.69,77
+5,Schönheit aus/als Funktion,Funktion,begriff,40,1.65,77
+5,Schönheit aus/als Funktion,Funktion,sinn,40,1.82,77
+5,Schönheit aus/als Funktion,Funktion,schönheit,36,0.83,77
+5,Schönheit aus/als Funktion,Funktion,gestalt,33,1.21,77
+5,Schönheit aus/als Funktion,Funktion,relation,32,1.81,77
+5,Schönheit aus/als Funktion,Funktion,funktionen,31,1.87,77
+5,Schönheit aus/als Funktion,Funktion,ästhetisch,27,1.3,77
+5,Schönheit aus/als Funktion,Funktion,mathematisch,23,1.78,77
+5,Schönheit aus/als Funktion,Funktion,aesthetisch,22,1.32,77
+5,Schönheit aus/als Funktion,Funktion,forderung,21,1.76,77
+5,Schönheit aus/als Funktion,Funktion,psychisch,21,1.57,77
+5,Schönheit aus/als Funktion,Funktion,kunst,20,1.2,77
+5,Schönheit aus/als Funktion,Funktion,sessel,20,1.65,77
+5,Schönheit aus/als Funktion,Funktion,technik,20,1.2,77
+5,Schönheit aus/als Funktion,Funktion,ereignisses,19,1.89,77
+5,Schönheit aus/als Funktion,Funktion,beziehung,17,1.94,77
+5,Schönheit aus/als Funktion,Funktion,erfüllung,16,1.25,77
+5,Schönheit aus/als Funktion,Funktion,materie,16,1.56,77
+5,Schönheit aus/als Funktion,Funktion,verschieden,15,1.67,77
+5,Schönheit aus/als Funktion,Funktion,mathematik,14,1.86,77
+5,Schönheit aus/als Funktion,Funktion,rein,14,1.64,77
+5,Schönheit aus/als Funktion,Funktion,verhältnis,14,2.0,77
+5,Schönheit aus/als Funktion,Funktion,grund,13,1.15,77
+5,Schönheit aus/als Funktion,Funktion,frage,12,1.58,77
+5,Schönheit aus/als Funktion,Funktion,problem,12,1.25,77
+5,Schönheit aus/als Funktion,Funktion,bezug,11,0.82,77
+5,Schönheit aus/als Funktion,Funktion,gegenstand,11,1.18,77
+5,Schönheit aus/als Funktion,Funktion,werk,11,1.64,77
+5,Schönheit aus/als Funktion,Funktion,eigentlich,10,1.5,77
+5,Schönheit aus/als Funktion,Funktion,gebrauchsgegenstand,10,1.3,77
+5,Schönheit aus/als Funktion,Funktion,grösse,10,2.0,77
+5,Schönheit aus/als Funktion,Funktion,schön,10,2.0,77
+5,Schönheit aus/als Funktion,Funktion,umwelt,10,1.5,77
+5,Schönheit aus/als Funktion,Funktion,verantwortungsbewußtsein,10,1.6,77
+5,Schönheit aus/als Funktion,Funktion,zweckmäßig,10,1.8,77
+5,Schönheit aus/als Funktion,Funktion,benützend,9,1.0,77
+5,Schönheit aus/als Funktion,Funktion,entscheidend,9,1.89,77
+5,Schönheit aus/als Funktion,Funktion,menschlich,9,1.22,77
+5,Schönheit aus/als Funktion,Funktion,praxis,9,2.0,77
+5,Schönheit aus/als Funktion,Funktion,produktion,9,2.0,77
+5,Schönheit aus/als Funktion,Funktion,aesthetik,8,1.25,77
+5,Schönheit aus/als Funktion,Funktion,arbeit,8,1.5,77
+5,Schönheit aus/als Funktion,Funktion,bestimmt,8,1.62,77
+5,Schönheit aus/als Funktion,Funktion,bezeichnung,8,1.25,77
+5,Schönheit aus/als Funktion,Funktion,ergebnis,8,1.88,77
+5,Schönheit aus/als Funktion,Funktion,frei,8,1.25,77
+5,Schönheit aus/als Funktion,Funktion,gesamt,8,1.75,77
+5,Schönheit aus/als Funktion,Funktion,gestaltung,8,1.25,77
+5,Schönheit aus/als Funktion,Funktion,kunstwerk,8,1.38,77
+5,Schönheit aus/als Funktion,Funktion,neu,8,1.75,77
+5,Schönheit aus/als Funktion,Funktion,persönlich,8,1.88,77
+5,Schönheit aus/als Funktion,Funktion,zusammenhang,8,1.5,77
+5,Schönheit aus/als Funktion,Funktion,auffassung,7,1.71,77
+5,Schönheit aus/als Funktion,Funktion,benützer,7,1.86,77
+5,Schönheit aus/als Funktion,Funktion,bewusstsein,7,1.14,77
+5,Schönheit aus/als Funktion,Funktion,dick,7,1.86,77
+5,Schönheit aus/als Funktion,Funktion,dünn,7,1.86,77
+5,Schönheit aus/als Funktion,Funktion,einzeln,7,1.0,77
+5,Schönheit aus/als Funktion,Funktion,erkenntnis,7,1.57,77
+5,Schönheit aus/als Funktion,Funktion,gegenstandes,7,1.57,77
+5,Schönheit aus/als Funktion,Funktion,geschmack,7,1.71,77
+5,Schönheit aus/als Funktion,Funktion,gesellschaftlich,7,1.71,77
+5,Schönheit aus/als Funktion,Funktion,raum,7,1.57,77
+5,Schönheit aus/als Funktion,Funktion,saison,7,2.0,77
+5,Schönheit aus/als Funktion,Funktion,verallgemeinernd,7,1.71,77
+5,Schönheit aus/als Funktion,Funktion,wechselwirkung,7,2.0,77
+5,Schönheit aus/als Funktion,Funktion,zahl,7,1.71,77
+5,Schönheit aus/als Funktion,Funktion,zweck,7,1.86,77
+5,Schönheit aus/als Funktion,Funktion,anzahl,6,1.67,77
+5,Schönheit aus/als Funktion,Funktion,auswirkung,6,0.83,77
+5,Schönheit aus/als Funktion,Funktion,bedürfnisses,6,1.5,77
+5,Schönheit aus/als Funktion,Funktion,bild,6,0.5,77
+5,Schönheit aus/als Funktion,Funktion,einschränkend,6,1.17,77
+5,Schönheit aus/als Funktion,Funktion,erfüllen,6,1.5,77
+5,Schönheit aus/als Funktion,Funktion,existenz,6,0.83,77
+5,Schönheit aus/als Funktion,Funktion,gebiet,6,1.5,77
+5,Schönheit aus/als Funktion,Funktion,gegenständen,6,1.83,77
+5,Schönheit aus/als Funktion,Funktion,geistig,6,1.0,77
+5,Schönheit aus/als Funktion,Funktion,hervorrufen,6,1.5,77
+5,Schönheit aus/als Funktion,Funktion,massnahme,6,1.17,77
+5,Schönheit aus/als Funktion,Funktion,materiell,6,0.33,77
+5,Schönheit aus/als Funktion,Funktion,preis,6,1.5,77
+5,Schönheit aus/als Funktion,Funktion,preiswürdigkeit,6,1.5,77
+5,Schönheit aus/als Funktion,Funktion,stück,6,1.5,77
+5,Schönheit aus/als Funktion,Funktion,themas,6,0.83,77
+5,Schönheit aus/als Funktion,Funktion,verständnis,6,1.17,77
+5,Schönheit aus/als Funktion,Funktion,wesentlich,6,1.17,77
+5,Schönheit aus/als Funktion,Funktion,ziel,6,1.33,77
+5,Schönheit aus/als Funktion,Funktion,zweckmässig,6,1.17,77
+5,Schönheit aus/als Funktion,Funktion,ökonomisch,6,1.5,77
+5,Schönheit aus/als Funktion,Funktion,übertragen,6,2.0,77
+5,Schönheit aus/als Funktion,Funktion,abend,5,1.0,77
+5,Schönheit aus/als Funktion,Funktion,algebraisch,5,2.0,77
+5,Schönheit aus/als Funktion,Funktion,ansätze,5,1.4,77
+5,Schönheit aus/als Funktion,Funktion,begriffe,5,1.2,77
+5,Schönheit aus/als Funktion,Funktion,eindeutig,5,0.4,77
+5,Schönheit aus/als Funktion,Funktion,element,5,1.6,77
+5,Schönheit aus/als Funktion,Funktion,entscheidung,5,1.2,77
+5,Schönheit aus/als Funktion,Funktion,ereignissen,5,1.4,77
+5,Schönheit aus/als Funktion,Funktion,fachgebiet,5,1.2,77
+5,Schönheit aus/als Funktion,Funktion,faktor,5,2.0,77
+5,Schönheit aus/als Funktion,Funktion,funktionsbegriffes,5,2.0,77
+5,Schönheit aus/als Funktion,Funktion,gesellschaft,5,0.8,77
+5,Schönheit aus/als Funktion,Funktion,gesichtspunkt,5,1.0,77
+5,Schönheit aus/als Funktion,Funktion,gewählt,5,1.0,77
+5,Schönheit aus/als Funktion,Funktion,grundlage,5,0.4,77
+5,Schönheit aus/als Funktion,Funktion,grösserer,5,1.2,77
+5,Schönheit aus/als Funktion,Funktion,herren,5,1.8,77
+5,Schönheit aus/als Funktion,Funktion,integralrechnung,5,2.0,77
+5,Schönheit aus/als Funktion,Funktion,interesse,5,0.6,77
+5,Schönheit aus/als Funktion,Funktion,material,5,1.4,77
+5,Schönheit aus/als Funktion,Funktion,oberbegriff,5,1.4,77
+5,Schönheit aus/als Funktion,Funktion,plastik,5,0.6,77
+5,Schönheit aus/als Funktion,Funktion,praktisch,5,1.8,77
+5,Schönheit aus/als Funktion,Funktion,schluss,5,1.0,77
+5,Schönheit aus/als Funktion,Funktion,speziell,5,1.2,77
+5,Schönheit aus/als Funktion,Funktion,stadtstruktur,5,1.0,77
+5,Schönheit aus/als Funktion,Funktion,stuhl,5,1.8,77
+5,Schönheit aus/als Funktion,Funktion,variabl,5,1.6,77
+5,Schönheit aus/als Funktion,Funktion,verantwortungsgefühl,5,2.0,77
+5,Schönheit aus/als Funktion,Funktion,verbindung,5,1.0,77
+5,Schönheit aus/als Funktion,Funktion,verkehrsplanung,5,1.0,77
+5,Schönheit aus/als Funktion,Funktion,veränderlich,5,2.0,77
+5,Schönheit aus/als Funktion,Funktion,werten,5,1.6,77
+5,Schönheit aus/als Funktion,Funktion,abstrakt,4,1.75,77
+5,Schönheit aus/als Funktion,Funktion,anderer,4,1.0,77
+5,Schönheit aus/als Funktion,Funktion,anstoß,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,appat,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,ausdruck,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,bedürfnis,4,2.0,77
+5,Schönheit aus/als Funktion,Funktion,begründung,4,0.75,77
+5,Schönheit aus/als Funktion,Funktion,beiwerk,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,beobpunkt,4,0.75,77
+5,Schönheit aus/als Funktion,Funktion,betrachohne,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,bewußratebau,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,denglauben,4,0.75,77
+5,Schönheit aus/als Funktion,Funktion,dern,4,1.75,77
+5,Schönheit aus/als Funktion,Funktion,empfindung,4,1.5,77
+5,Schönheit aus/als Funktion,Funktion,extrem,4,0.5,77
+5,Schönheit aus/als Funktion,Funktion,feld,4,2.0,77
+5,Schönheit aus/als Funktion,Funktion,folgen,4,2.0,77
+5,Schönheit aus/als Funktion,Funktion,funktionentheorie,4,2.0,77
+5,Schönheit aus/als Funktion,Funktion,geartet,4,0.5,77
+5,Schönheit aus/als Funktion,Funktion,gebrauch,4,2.0,77
+5,Schönheit aus/als Funktion,Funktion,gebräuchen,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,gegeben,4,1.5,77
+5,Schönheit aus/als Funktion,Funktion,geistes,4,0.5,77
+5,Schönheit aus/als Funktion,Funktion,gleichbleibend,4,1.75,77
+5,Schönheit aus/als Funktion,Funktion,grenze,4,0.5,77
+5,Schönheit aus/als Funktion,Funktion,handwerk,4,1.0,77
+5,Schönheit aus/als Funktion,Funktion,harmonisch,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,hinsicht,4,1.5,77
+5,Schönheit aus/als Funktion,Funktion,hochschule,4,1.75,77
+5,Schönheit aus/als Funktion,Funktion,ideal,4,2.0,77
+5,Schönheit aus/als Funktion,Funktion,industrie,4,0.5,77
+5,Schönheit aus/als Funktion,Funktion,ingenieur,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,kultur,4,1.5,77
+5,Schönheit aus/als Funktion,Funktion,künstachten,4,0.75,77
+5,Schönheit aus/als Funktion,Funktion,lage,4,1.5,77
+5,Schönheit aus/als Funktion,Funktion,lerisch,4,0.75,77
+5,Schönheit aus/als Funktion,Funktion,logistik,4,2.0,77
+5,Schönheit aus/als Funktion,Funktion,maßnahme,4,0.75,77
+5,Schönheit aus/als Funktion,Funktion,mode,4,0.75,77
+5,Schönheit aus/als Funktion,Funktion,moralisch,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,niveau,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,näh,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,primär,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,psych,4,1.75,77
+5,Schönheit aus/als Funktion,Funktion,schema,4,1.75,77
+5,Schönheit aus/als Funktion,Funktion,sentimental,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,tätigkeit,4,2.0,77
+5,Schönheit aus/als Funktion,Funktion,wechsel,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,wichtigkeit,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,wille,4,1.75,77
+5,Schönheit aus/als Funktion,Funktion,zahlen,4,2.0,77
+5,Schönheit aus/als Funktion,Funktion,zeuge,4,0.0,77
+5,Schönheit aus/als Funktion,Funktion,zial,4,1.25,77
+5,Schönheit aus/als Funktion,Funktion,antwort,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,ausbildungsproblem,3,1.33,77
+5,Schönheit aus/als Funktion,Funktion,bedauern,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,bedingung,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,beginn,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,beherrschung,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,einfluss,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,einfluß,3,0.67,77
+5,Schönheit aus/als Funktion,Funktion,einheit,3,1.33,77
+5,Schönheit aus/als Funktion,Funktion,empfindungen,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,energie,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,entstehung,3,0.67,77
+5,Schönheit aus/als Funktion,Funktion,entwerfender,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,erfahrung,3,1.33,77
+5,Schönheit aus/als Funktion,Funktion,ergebnissen,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,erkenntnisse,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,experiment,3,0.67,77
+5,Schönheit aus/als Funktion,Funktion,fall,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,formveränderung,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,funktionsveränderunsen,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,fähigkeit,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,gebrauchsgüter,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,gen,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,geschirr,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,idee,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,industriell,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,ingenieurform,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,komponente,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,künstler,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,lampe,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,leibnitzsch,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,linie,3,1.33,77
+5,Schönheit aus/als Funktion,Funktion,maßen,3,0.0,77
+5,Schönheit aus/als Funktion,Funktion,method,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,möglichkeit,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,natur,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,normal,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,ort,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,programm,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,punkte,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,qualität,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,revolution,3,1.33,77
+5,Schönheit aus/als Funktion,Funktion,sch,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,schöpferisch,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,sicherheitsfaktor,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,sitzen,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,sozial,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,tion,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,tisches,3,1.33,77
+5,Schönheit aus/als Funktion,Funktion,türgriff,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,umbruch,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,unfähigkeit,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,verantwortbar,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,verfechter,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,verändert,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,weitgehend,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,werkbund,3,1.67,77
+5,Schönheit aus/als Funktion,Funktion,wertung,3,2.0,77
+5,Schönheit aus/als Funktion,Funktion,zusammenhänge,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,zusammenwirkens,3,1.0,77
+5,Schönheit aus/als Funktion,Funktion,ästhehang,3,1.0,77
+5,Schönheit aus/als Funktion,Schönheit,form,96,1.58,32
+5,Schönheit aus/als Funktion,Schönheit,funktion,36,0.83,32
+5,Schönheit aus/als Funktion,Schönheit,kunst,26,1.31,32
+5,Schönheit aus/als Funktion,Schönheit,letzter,15,1.27,32
+5,Schönheit aus/als Funktion,Schönheit,vollkommen,13,0.92,32
+5,Schönheit aus/als Funktion,Schönheit,harmonisch,11,0.91,32
+5,Schönheit aus/als Funktion,Schönheit,funktionen,10,1.1,32
+5,Schönheit aus/als Funktion,Schönheit,sinn,10,1.3,32
+5,Schönheit aus/als Funktion,Schönheit,einheit,9,0.67,32
+5,Schönheit aus/als Funktion,Schönheit,produktion,9,1.44,32
+5,Schönheit aus/als Funktion,Schönheit,endes,8,1.0,32
+5,Schönheit aus/als Funktion,Schönheit,idee,8,1.75,32
+5,Schönheit aus/als Funktion,Schönheit,summe,8,0.75,32
+5,Schönheit aus/als Funktion,Schönheit,verantwortungsbewußtsein,8,1.75,32
+5,Schönheit aus/als Funktion,Schönheit,einfach,7,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,forderung,7,1.57,32
+5,Schönheit aus/als Funktion,Schönheit,kulturell,7,1.71,32
+5,Schönheit aus/als Funktion,Schönheit,produkt,7,1.71,32
+5,Schönheit aus/als Funktion,Schönheit,schön,7,1.43,32
+5,Schönheit aus/als Funktion,Schönheit,zweckmäßig,7,1.29,32
+5,Schönheit aus/als Funktion,Schönheit,autonom,6,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,baum,6,0.5,32
+5,Schönheit aus/als Funktion,Schönheit,bezeichnung,6,1.5,32
+5,Schönheit aus/als Funktion,Schönheit,einzeln,6,0.83,32
+5,Schönheit aus/als Funktion,Schönheit,einzelteil,6,1.5,32
+5,Schönheit aus/als Funktion,Schönheit,erklärung,6,1.0,32
+5,Schönheit aus/als Funktion,Schönheit,existenz,6,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,gesamtheit,6,0.5,32
+5,Schönheit aus/als Funktion,Schönheit,gestalt,6,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,land,6,1.5,32
+5,Schönheit aus/als Funktion,Schönheit,normal,6,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,rein,6,1.83,32
+5,Schönheit aus/als Funktion,Schönheit,begriff,5,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,ding,5,1.8,32
+5,Schönheit aus/als Funktion,Schönheit,verantwortungsgefühl,5,1.8,32
+5,Schönheit aus/als Funktion,Schönheit,werk,5,1.2,32
+5,Schönheit aus/als Funktion,Schönheit,wert,5,1.6,32
+5,Schönheit aus/als Funktion,Schönheit,ausdruck,4,1.25,32
+5,Schönheit aus/als Funktion,Schönheit,autokarosserie,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,blatt,4,0.5,32
+5,Schönheit aus/als Funktion,Schönheit,dinge,4,1.75,32
+5,Schönheit aus/als Funktion,Schönheit,eleganz,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,gebrauchsgüter,4,0.25,32
+5,Schönheit aus/als Funktion,Schönheit,geformt,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,geschirr,4,1.5,32
+5,Schönheit aus/als Funktion,Schönheit,hilfe,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,hinsicht,4,1.5,32
+5,Schönheit aus/als Funktion,Schönheit,klar,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,landschaft,4,0.5,32
+5,Schönheit aus/als Funktion,Schönheit,maschine,4,1.5,32
+5,Schönheit aus/als Funktion,Schönheit,mass,4,1.25,32
+5,Schönheit aus/als Funktion,Schönheit,materialgerecht,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,neu,4,1.5,32
+5,Schönheit aus/als Funktion,Schönheit,neumann,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,nütznunftgemäß,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,qualität,4,1.25,32
+5,Schönheit aus/als Funktion,Schönheit,qualitäten,4,1.5,32
+5,Schönheit aus/als Funktion,Schönheit,saison,4,1.5,32
+5,Schönheit aus/als Funktion,Schönheit,schluss,4,0.75,32
+5,Schönheit aus/als Funktion,Schönheit,signum,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,stehend,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,technik,4,1.75,32
+5,Schönheit aus/als Funktion,Schönheit,technisch,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,unnötig,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,verfügung,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,vertretbar,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,zeuge,4,0.0,32
+5,Schönheit aus/als Funktion,Schönheit,zutat,4,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,zweckmäßigkeit,4,1.25,32
+5,Schönheit aus/als Funktion,Schönheit,ästhetisch,4,1.5,32
+5,Schönheit aus/als Funktion,Schönheit,ablösend,3,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,anschauung,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,ansicht,3,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,arbeit,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,aufgabe,3,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,ausführung,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,bedingung,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,begründung,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,beobpunkt,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,denglauben,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,epoche,3,1.0,32
+5,Schönheit aus/als Funktion,Schönheit,fahrung,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,funkdaß,3,1.0,32
+5,Schönheit aus/als Funktion,Schönheit,gen,3,1.67,32
+5,Schönheit aus/als Funktion,Schönheit,gerät,3,1.67,32
+5,Schönheit aus/als Funktion,Schönheit,gliederung,3,0.67,32
+5,Schönheit aus/als Funktion,Schönheit,hand,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,hauseinrichgut,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,heit,3,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,henry,3,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,herstellen,3,1.67,32
+5,Schönheit aus/als Funktion,Schönheit,künstachten,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,künstler,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,lerisch,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,leute,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,maschinenzeitalter,3,1.0,32
+5,Schönheit aus/als Funktion,Schönheit,massenkonsumjederzeit,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,maßnahme,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,moralisch,3,1.0,32
+5,Schönheit aus/als Funktion,Schönheit,problem,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,ruf,3,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,stecknadel,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,stückwerk,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,tion,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,velde,3,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,verantwortbar,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,verantwortung,3,1.67,32
+5,Schönheit aus/als Funktion,Schönheit,verhältnis,3,1.0,32
+5,Schönheit aus/als Funktion,Schönheit,verständnis,3,1.0,32
+5,Schönheit aus/als Funktion,Schönheit,welle,3,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,welt,3,2.0,32
+5,Schönheit aus/als Funktion,Schönheit,wesentlich,3,1.33,32
+5,Schönheit aus/als Funktion,Schönheit,zial,3,1.0,32
+5,Schönheit aus/als Funktion,Schönheit,zufall,3,1.33,32
+6,Atelier Bill,Industrie,formgebung,15,2.0,13
+6,Atelier Bill,Industrie,form,11,1.64,13
+6,Atelier Bill,Industrie,handwerk,10,1.3,13
+6,Atelier Bill,Industrie,industriell,10,1.8,13
+6,Atelier Bill,Industrie,kunst,10,1.3,13
+6,Atelier Bill,Industrie,gewerbe,8,1.25,13
+6,Atelier Bill,Industrie,schweiz,8,1.75,13
+6,Atelier Bill,Industrie,industrielle,7,1.86,13
+6,Atelier Bill,Industrie,industriellen,6,1.67,13
+6,Atelier Bill,Industrie,anonym,5,1.2,13
+6,Atelier Bill,Industrie,bedenklich,5,1.8,13
+6,Atelier Bill,Industrie,faktor,5,1.2,13
+6,Atelier Bill,Industrie,formschaffend,5,1.2,13
+6,Atelier Bill,Industrie,konkurrenzfähigkeit,5,1.8,13
+6,Atelier Bill,Industrie,mißgeburt,5,1.8,13
+6,Atelier Bill,Industrie,produktionsfaktor,5,1.8,13
+6,Atelier Bill,Industrie,schwergewicht,5,1.0,13
+6,Atelier Bill,Industrie,tatsache,5,1.8,13
+6,Atelier Bill,Industrie,verzerrung,5,1.8,13
+6,Atelier Bill,Industrie,zweck,5,1.8,13
+6,Atelier Bill,Industrie,begriff,4,1.0,13
+6,Atelier Bill,Industrie,entwicklung,4,2.0,13
+6,Atelier Bill,Industrie,fertigung,4,1.0,13
+6,Atelier Bill,Industrie,frei,4,1.0,13
+6,Atelier Bill,Industrie,funktion,4,0.5,13
+6,Atelier Bill,Industrie,grund,4,1.0,13
+6,Atelier Bill,Industrie,heutig,4,2.0,13
+6,Atelier Bill,Industrie,künstler,4,0.5,13
+6,Atelier Bill,Industrie,maschine,4,2.0,13
+6,Atelier Bill,Industrie,neu,4,2.0,13
+6,Atelier Bill,Industrie,problem,4,1.5,13
+6,Atelier Bill,Industrie,sogenannter,4,2.0,13
+6,Atelier Bill,Industrie,velde,4,1.5,13
+6,Atelier Bill,Industrie,vorstufe,4,2.0,13
+6,Atelier Bill,Industrie,weiterentwicklung,4,2.0,13
+6,Atelier Bill,Industrie,beherrschung,3,2.0,13
+6,Atelier Bill,Industrie,gestalter,3,0.33,13
+6,Atelier Bill,Industrie,grundlage,3,1.67,13
+7,Anfang ohne Ende,Farbe,form,30,1.4,12
+7,Anfang ohne Ende,Farbe,natur,10,1.4,12
+7,Anfang ohne Ende,Farbe,raum,9,1.44,12
+7,Anfang ohne Ende,Farbe,element,8,1.25,12
+7,Anfang ohne Ende,Farbe,materie,8,1.62,12
+7,Anfang ohne Ende,Farbe,werk,7,1.86,12
+7,Anfang ohne Ende,Farbe,handhabung,6,1.33,12
+7,Anfang ohne Ende,Farbe,anwendung,5,1.4,12
+7,Anfang ohne Ende,Farbe,aufbau,5,1.4,12
+7,Anfang ohne Ende,Farbe,beobachtung,5,1.4,12
+7,Anfang ohne Ende,Farbe,beziehung,5,2.0,12
+7,Anfang ohne Ende,Farbe,elementar,5,1.4,12
+7,Anfang ohne Ende,Farbe,faktor,5,1.2,12
+7,Anfang ohne Ende,Farbe,kunst,5,2.0,12
+7,Anfang ohne Ende,Farbe,mathematisch,5,2.0,12
+7,Anfang ohne Ende,Farbe,neoplastizismus,5,1.6,12
+7,Anfang ohne Ende,Farbe,psychologisch,5,1.2,12
+7,Anfang ohne Ende,Farbe,rein,5,1.2,12
+7,Anfang ohne Ende,Farbe,schema,5,1.4,12
+7,Anfang ohne Ende,Farbe,absicht,3,1.67,12
+7,Anfang ohne Ende,Farbe,einzeln,3,1.33,12
+7,Anfang ohne Ende,Farbe,grundelement,3,1.67,12
+7,Anfang ohne Ende,Farbe,malerei,3,1.33,12
+7,Anfang ohne Ende,Farbe,paris,3,1.0,12
+7,Anfang ohne Ende,Farbe,plastisch,3,1.67,12
+7,Anfang ohne Ende,Farbe,praktisch,3,1.33,12
+7,Anfang ohne Ende,Farbe,rhythmus,3,1.33,12
